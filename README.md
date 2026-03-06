@@ -1,4 +1,4 @@
-# Quantum-AI-Summit-2025-stats-analysis-for-qiskit-fall-fest-2026
+# Quantum-AI-Summit-2025-stats-analysis
 This is a statistical analysis of the attendance patterns in the Quantum AI Summit 2025 (December 19-21). Notwithstanding the diverse academic backgrounds of the participants, the data reveals significant engagement trends; consequently, this analysis is useful to identify the target audience for the upcoming Qiskit Fall Fest 2026
 The project combines descriptive statistics, hypothesis testing, clustering, and simple predictive modeling to study participant engagement across multiple days of the event.
 
